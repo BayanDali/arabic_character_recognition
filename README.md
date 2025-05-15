@@ -9,6 +9,7 @@ This project focuses on building a deep learning model to recognize handwritten 
 ┗ 📜README.md
 
 🧾 Requirements
+
 Python 3.7+
 
 TensorFlow
