@@ -3,31 +3,48 @@ This project focuses on building a deep learning model to recognize handwritten 
 
 ## 📁 Project Structure
 📦arabic_character_recognition
+
 ┣ 📜arabic_character_recognition.ipynb
+
 ┗ 📜README.md
 
 🧾 Requirements
 Python 3.7+
+
 TensorFlow
+
 NumPy
+
 Pandas
+
 Matplotlib
+
 scikit-learn
+
 seaborn
 
 ## 🚀 Features
 - Preprocessing and visualization of Arabic handwritten characters
+- 
 - CNN architecture using TensorFlow/Keras
+- 
 - Accuracy and loss plots for model evaluation
+- 
 - Confusion matrix for performance analysis
+- 
 - Prediction demonstration on sample images
 
 ## 🧠 Model Architecture
 The model is a Convolutional Neural Network (CNN) with the following structure:
+
 - Convolutional + MaxPooling layers
+- 
 - Dropout regularization
+- 
 - Fully connected (Dense) layers
+- 
 - Softmax activation for 28 Arabic characters
+- 
 
 ## 📊 Dataset
 - **Name**: AHCD (Arabic Handwritten Characters Dataset)
